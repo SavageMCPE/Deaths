@@ -1,0 +1,7 @@
+
+settings:
+  items_per_page: 18 // como maximo es el 18, ( es pa que se vea bonito :b )
+  save_environment_deaths: true
+  date_format: "d/m/Y"
+  time_format: "H:i"
+  

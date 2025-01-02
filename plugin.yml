@@ -1,0 +1,8 @@
+name: DeathSystem
+main: Lyndarx\Death\Main
+version: 1.0.0
+api: 5.0.0
+author: Lyndarx
+permissions:
+  deaths.permission:
+    default: true
